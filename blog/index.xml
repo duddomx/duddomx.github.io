@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Note Scritte</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Note Scritte</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <copyright>© 2025, duddomx</copyright>
+    <lastBuildDate>Thu, 29 May 2025 00:21:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>http://localhost:1313/blog/hello_world/</link>
+      <pubDate>Thu, 29 May 2025 00:21:35 +0200</pubDate>
+      <guid>http://localhost:1313/blog/hello_world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;h2 id=&#34;primo-post&#34;&gt;Primo post&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
