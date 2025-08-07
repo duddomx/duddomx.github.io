@@ -6,8 +6,15 @@
     <description>Recent content on Note Scritte</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 May 2025 07:11:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 21:33:52 +0200</lastBuildDate>
     <atom:link href="https://duddomx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondo Post</title>
+      <link>https://duddomx.github.io/posts/secondo-post/</link>
+      <pubDate>Thu, 07 Aug 2025 21:33:52 +0200</pubDate>
+      <guid>https://duddomx.github.io/posts/secondo-post/</guid>
+      <description>&lt;h1 id=&#34;questo-è-il-secondo-post-del-mio-blog&#34;&gt;Questo è il secondo post del mio blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dopo-un-po-di-tempo-torno-a-scrivere&#34;&gt;Dopo un po&amp;rsquo; di tempo torno a scrivere&lt;/h2&gt;&#xA;&lt;p&gt;Dopo un po&amp;rsquo; di tempo, torno a scrivere qualcosa in questo blog. Di cose ne sono&#xA;successe e progetti sono nati e morti senza lasciare traccia. Ora sto preparando&#xA;qualcosa di interessante, quindi tenete d&amp;rsquo;occhio questo blog.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://duddomx.github.io/posts/hello-world/</link>
